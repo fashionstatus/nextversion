@@ -1,0 +1,27 @@
+[
+  {
+    "title": "X",
+    "url": "https://twitter.com/glaubhanta",
+    "image": "/images/footer/social-media/x.png"
+  },
+  {
+    "title": "Facebook",
+    "url": "https://www.linkedin.com/in/glaubhanta/",
+    "image": "/images/footer/social-media/facebook.png"
+  },
+  {
+    "title": "Instagram",
+    "url": "https://www.glaubhanta.site/",
+    "image": "/images/footer/social-media/instagram.png"
+  },
+  {
+    "title": "Youtube",
+    "url": "https://www.glaubhanta.ir/",
+    "image": "/images/footer/social-media/youtube.png"
+  },
+  {
+    "title": "TikTok",
+    "url": "https://dev.to/glaubhanta",
+    "image": "/images/footer/social-media/tiktok.png"
+  }
+]

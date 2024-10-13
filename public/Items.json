@@ -1,0 +1,38 @@
+
+     
+    {
+        "items": {
+          "bootstrap": [
+          
+          ],
+          "elastic": [
+            {
+              "id": 1,
+              "title": "Photoshoots",
+              "imageUrl": "images/home/kidscollections.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Adventure",
+              "imageUrl": "images/home/ladiescollections.jpg"
+            },
+            {
+              "id": 3,
+              "title": "Events",
+              "imageUrl": "images/home/ladiesfroks.jpg"
+            },
+            {
+              "id": 4,
+              "title": "Discovery",
+              "imageUrl": "images/home/ladiesfroksingle.jpg"
+            },
+            {
+              "id": 5,
+              "title": "Sports",
+              "imageUrl": "images/home/ladieslovables.jpg"
+            }
+          ]
+        }
+      }
+      
+  

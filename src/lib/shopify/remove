@@ -1,0 +1,10 @@
+/*await shopifyFetch<ShopifyProductsOperation>({
+    query:  'http://localhost:3000/products.json',   //getProductsQuery,
+    tags: [TAGS.products],
+    variables: {
+      query,
+      reverse,
+      sortKey,
+      first
+    }
+  }); */
