@@ -14,22 +14,22 @@ https://accounts.shopify.com/accounts/277629287/personal
 https://admin.shopify.com/store/muce5c-ic/themes/144469917926/editor?section=template--18317627818214__featured_collection
 
 Hello this HHIT's but no response 
-//curl -X GET "https://muce5c-ic.myshopify.com/admin/api/2023-01/shopify_payments/balance/transactions.json" -H "X-Shopify-Access-Token:^"
+//curl -X GET "https://muce5c-ic.myshopify.com/admin/api/2023-01/shopify_payments/balance/transactions.json" -H "X-AT:^"
 
-curl -X GET "https://muce5c-ic.myshopify.com/admin/api/2024-10/graphql.json?Username=sohelkhan65264@gmail.com&Password=todaybestfashion_123" -H "X-Shopify-Access-Token:^"
+curl -X GET "https://muce5c-ic.myshopify.com/admin/api/2024-10/graphql.json?Username=sohelkhan65264@gmail.com&Password=todaybestfashion_123" -H "X-AT:^"
 
 
 Finally this worked seems 
-curl -X GET "https://muce5c-ic.myshopify.com/admin/api/2024-10/graphql.json?Username=sohelkhan65264@gmail.com&Password=todaybestfashion_123" -H "X-Shopify-Access-Token:^"
+curl -X GET "https://muce5c-ic.myshopify.com/admin/api/2024-10/graphql.json?Username=sohelkhan65264@gmail.com&Password=todaybestfashion_123" -H "X-AT:^"
 {"errors":"Not Found"}
 
 Works products jspn also 
 
-curl -X GET "https://muce5c-ic.myshopify.com/admin/api/2024-10/products.json?Username=sohelkhan65264@gmail.com&Password=todaybestfashion_123" -H "X-Shopify-Access-Token:^"
+curl -X GET "https://muce5c-ic.myshopify.com/admin/api/2024-10/products.json?Username=sohelkhan65264@gmail.com&Password=todaybestfashion_123" -H "X-AT:^"
 
 {"products":[]} 
 
-curl -X GET "https://muce5c-ic.myshopify.com/admin/api/2024-10/pages.json?Username=sohelkhan65264@gmail.com&Password=todaybestfashion_123" -H "X-Shopify-Access-Token:^"
+curl -X GET "https://muce5c-ic.myshopify.com/admin/api/2024-10/pages.json?Username=sohelkhan65264@gmail.com&Password=todaybestfashion_123" -H "X-AT:^"
 
 {"pages":[{"id":111161639142,"title":"Contact","shop_id":71527170278,"handle":"contact","body_html":null,"author":null,"created_at":"2024-10-12T13:05:26+05:30","updated_at":"2024-10-12T13:05:26+05:30","published_at":"2024-10-12T13:05:26+05:30","template_suffix":"contact","admin_graphql_api_id":"gid:\/\/shopify\/Page\/111161639142"}]}
 
